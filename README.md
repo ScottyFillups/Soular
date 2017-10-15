@@ -1,7 +1,12 @@
 # Soular
-Submitted to TreeHacks 2016
-Try it out live at http://spinnningoutofcontrol.com/ 
-;) Desktop only!
+### Submitted to ECHacks 2016
+Created by Joshua Sun, Lawrence Pan, Philip Scott, and Paul Lingertat.
+
+Forked from jsun98's repo so that it's hosted on my github pages.
+
+Try it out live at http://scottyfillups.io/soular 
+Desktop only.
+
 # Screenshots
 ![img1](http://res.cloudinary.com/rube0414/image/upload/v1504829942/1_v1jfpm.jpg)
 ![img1](http://res.cloudinary.com/rube0414/image/upload/v1504829942/2_ycebno.jpg)
