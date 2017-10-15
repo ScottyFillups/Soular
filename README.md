@@ -1,11 +1,13 @@
 # Soular
 ### Submitted to ECHacks 2016
+
 Created by Joshua Sun, Lawrence Pan, Philip Scott, and Paul Lingertat.
 
-Forked from jsun98's repo so that it's hosted on my github pages.
+Forked from jsun98's repository so that it's hosted on my Github pages.
 
-Try it out live at http://scottyfillups.io/soular 
-Desktop only.
+Try it out [here](http://scottyfillups.io/soular)
+
+Only supports desktop.
 
 # Screenshots
 ![img1](http://res.cloudinary.com/rube0414/image/upload/v1504829942/1_v1jfpm.jpg)
